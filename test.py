@@ -1,1 +1,1 @@
-print("hello")
+print("hello world") # waxa ehed kaliya 'hello' waxa lagu daray 'world'
